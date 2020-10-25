@@ -75,7 +75,7 @@ const Hero = () => (
         </IntroName>
         <IntroDescription>
           <Paragraph inverted>
-            I am a Final Year Computer Engineering Undergraduate student at Dwarkadas J. Sanghvi College of University.
+            I am a Final Year Computer Engineering Undergraduate at Dwarkadas J. Sanghvi College of Engineering.
           </Paragraph>
         </IntroDescription>
         <div>
